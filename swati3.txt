@@ -1,0 +1,9 @@
+class Dinga
+{
+  PSVM(String[] args)
+        {
+          System.out.println("Hi..........");
+         }
+
+
+}
